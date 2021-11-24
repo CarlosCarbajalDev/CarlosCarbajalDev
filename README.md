@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CarlosCarbajalDev
 - 👀 I’m interested in desing and develop web apps.
 - 🌱 I’m currently learning react, and a lot of design
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on proyects to improve all my skills (Developer, Desing, English).
 
 <!---
 CarlosCarbajalDev/CarlosCarbajalDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
